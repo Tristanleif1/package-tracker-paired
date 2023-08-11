@@ -11,6 +11,7 @@ flask-sqlalchemy = "*"
 wtforms = "*"
 flask-wtf = "*"
 flask-login = "*"
+jinja2 = "*"
 
 [dev-packages]
 
